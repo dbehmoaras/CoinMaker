@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "firstName",
+      "value" : "Uncle"
+    }, {
+      "trait_type" : "lastName",
+      "value" : "Sam"
+    } ],
+    "description" : "***VOTE***VOTE***VOTE***",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmeYKsWF94NjTKAN9BeNNWm2kEE8bakQF2Q6UmU8N5R3VD",
+    "name" : "Uncle_Sam"
+}
