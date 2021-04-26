@@ -9,5 +9,7 @@
     "description" : "***VOTE***VOTE***VOTE***",
     "image" : "https://gateway.pinata.cloud/ipfs/QmeYKsWF94NjTKAN9BeNNWm2kEE8bakQF2Q6UmU8N5R3VD",
     "name" : "Uncle_Sam",
-    "newProp": "newUncleSamProp"
+    "newProp": "newUncleSamProp",
+    "voteSecret": "https://gateway.pinata.cloud/ipfs/QmeYKsWF94NjTKAN9BeNNWm2kEE8bakQF2Q6UmU8N5R3VD",
+    "voteReward": "https://pbs.twimg.com/media/D2SDpMpX0AElFXk.jpg"
 }

@@ -16,6 +16,7 @@
   "dependencies": {
     "@alch/alchemy-web3": "^0.1.18",
     "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "solc": "^0.7.3"
   }

@@ -1,3 +1,6 @@
+//terminal command:
+//npx hardhat run scripts/deploy.js --network ropsten
+
 async function main() {
    const MyNFT = await ethers.getContractFactory("MyNFT");
 
