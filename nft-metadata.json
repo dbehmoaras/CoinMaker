@@ -7,9 +7,9 @@
       "value" : "Sam"
     } ],
     "description" : "***VOTE***VOTE***VOTE***",
-    "image" : "https://gateway.pinata.cloud/ipfs/QmeYKsWF94NjTKAN9BeNNWm2kEE8bakQF2Q6UmU8N5R3VD",
+    "image" : "NFT IMAGE ASSET",
     "name" : "Uncle_Sam",
     "newProp": "newUncleSamProp",
-    "voteSecret": "https://gateway.pinata.cloud/ipfs/QmeYKsWF94NjTKAN9BeNNWm2kEE8bakQF2Q6UmU8N5R3VD",
-    "voteReward": "https://pbs.twimg.com/media/D2SDpMpX0AElFXk.jpg"
+    "voteSecret": "VOTE SECRET LINK HERE",
+    "voteReward": "VOTE REWARD LINK HERE"
 }

@@ -1,18 +1,18 @@
 const path = require('path');
 console.log(__dirname)
-require('dotenv').config({path:'/home/david/Dropbox/HackCentral/ImmersiveGit/classRepo/scratchProj/CoinMaker/alcheMeta.env'});
+require('dotenv').config({path:'./../alcheMeta.env'});
 const { API_URL , PRIVATE_KEY , PUBLIC_KEY , IPFS_HASH_COHORT25 , PIN_GATEWAY } = process.env;
 console.log(API_URL)
 
 
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
-const web3 = new createAlchemyWeb3("https://eth-ropsten.alchemyapi.io/v2/Q6DLGfQL7ycNsgHRkfQc3MrQmUXg6sR9");
+const web3 = new createAlchemyWeb3("INSERT LINK TO ROPSTEN TEST NETWORK HERE");
 
 
 
 const contract = require("../artifacts/contracts/MyNFT.sol/MyNFT.json");
 console.log(contract.abi);
-const contractAddress = "0x812b2785f56f229b18ce1d3a8f29f8227225d4d9";
+const contractAddress = "INSERT CONTRACT ADDREWSS HERE";
 const nftContract = new web3.eth.Contract(contract.abi, contractAddress);
 
 
